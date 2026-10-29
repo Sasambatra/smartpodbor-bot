@@ -1,6 +1,6 @@
 # SmartPodbor — resume project entry
 
-**SmartPodbor — Telegram Smartphone Advisor**  
+**SmartPodbor — Telegram Smartphone Advisor**
 Portfolio project · October 2026
 
 **Source:** [Sasambatra/smartpodbor-bot](https://github.com/Sasambatra/smartpodbor-bot)

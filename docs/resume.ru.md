@@ -2,7 +2,7 @@
 
 ## Краткий блок для раздела «Проекты»
 
-**SmartPodbor — Telegram-бот для подбора смартфонов**  
+**SmartPodbor — Telegram-бот для подбора смартфонов**
 Учебный проект / портфолио Python-разработчика · октябрь 2026
 
 **GitHub:** [Sasambatra/smartpodbor-bot](https://github.com/Sasambatra/smartpodbor-bot)
