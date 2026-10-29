@@ -20,6 +20,9 @@ pytest-asyncio, Ruff, Docker, GitHub Actions.
   86,42% по локальной проверке. Подготовлены CLI-демо, Docker-сборка
   и workflow GitHub Actions для Python 3.11 и 3.14.
 
+**Проверено в GitHub Actions:** Python 3.11, Python 3.14 и сборка/демо Docker —
+[успешный запуск CI](https://github.com/Sasambatra/smartpodbor-bot/actions/runs/40934558688).
+
 ## Описание в одно предложение
 
 Асинхронный Telegram-бот на Python: собирает предпочтения пользователя,

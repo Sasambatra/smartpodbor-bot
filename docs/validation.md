@@ -37,15 +37,24 @@ Git ignore rules were checked for the real `.env`, `.local/`, session database,
 virtual environment, and coverage reports. The publishable `.env.example`
 and bundled `smartphone_bot/data/phones.json` remain eligible for tracking.
 
-## Checks that need another environment
+## Observed GitHub Actions results
 
-- **GitHub-hosted CI:** configured for Python 3.11 and 3.14, but no hosted run
-  is claimed before the repository is published.
-- **Python 3.11 execution:** part of the CI matrix; not run locally in this
-  Python 3.14 environment.
-- **Docker execution:** the workflow builds and runs the offline demo;
-  Docker is not installed in this local environment, so no local container
-  result is claimed.
+The public [CI run 40934558688](https://github.com/Sasambatra/smartpodbor-bot/actions/runs/40934558688)
+completed successfully on **2026-10-29**, validating commit
+`90a34add520aba1ee1a3235e6546ea71234ec650`.
+
+| Job | Observed result |
+| --- | --- |
+| Python 3.11 | Passed: dependencies, style, tests, catalog, packaging, installed-wheel smoke test |
+| Python 3.14 | Passed: dependencies, style, tests, catalog, packaging, installed-wheel smoke test |
+| Docker offline smoke test | Passed: runtime image build, catalog validation, offline demo |
+
+The README badge links to the workflow's current status; the linked run above
+is a fixed record of this validation. Local execution used Python 3.14;
+Python 3.11 and Docker were additionally verified on GitHub-hosted runners.
+
+## Runtime boundaries
+
 - **Live Telegram conversation:** requires a real BotFather token and working
   Telegram connectivity. Offline tests use a fake transport and do not prove
   a token is valid or a bot is publicly available.

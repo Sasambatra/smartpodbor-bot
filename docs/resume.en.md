@@ -18,6 +18,8 @@ pytest-asyncio, Ruff, Docker, GitHub Actions.
   local validation, an offline CLI demo, Docker configuration, and a CI workflow
   targeting Python 3.11 and 3.14.
 
+**Verified CI:** [Python 3.11, Python 3.14, and Docker checks passed](https://github.com/Sasambatra/smartpodbor-bot/actions/runs/40934558688).
+
 The project adapts aiogram's MIT-licensed FSM example; upstream attribution
 is retained. Prices are indicative, marketplace links open searches, and
 automated tests use a fake Telegram transport. Commercial usage, hosted uptime,
