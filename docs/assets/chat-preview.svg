@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="860" viewBox="0 0 1280 860" role="img" aria-labelledby="title desc">
+<title id="title">СмартПодбор — questionnaire and recommendation preview</title>
+<desc id="desc">Offline illustration generated from actual questions and a gaming recommendation. Prices are indicative, not live offers.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101427"/><stop offset="1" stop-color="#20204a"/></linearGradient></defs>
+<rect width="1280" height="860" rx="28" fill="url(#bg)"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<rect x="40" y="35" width="62" height="62" rx="18" fill="#a899ff"/>
+<text x="53" y="75" fill="#15172d" font-size="24" font-weight="700">СП</text>
+<text x="122" y="78" fill="#e8ebff" font-size="43" font-weight="700">СмартПодбор</text>
+<text x="42" y="128" fill="#bdc7e5" font-size="23" font-weight="400">A smartphone decision, explained. Built for a conversation.</text>
+<rect x="40" y="153" width="170" height="34" rx="17" fill="#2b3153"/>
+<text x="57" y="176" fill="#e8ebff" font-size="16" font-weight="400">8 questions</text>
+<rect x="224" y="153" width="230" height="34" rx="17" fill="#2b3153"/>
+<text x="241" y="176" fill="#e8ebff" font-size="16" font-weight="400">16 phone models</text>
+<rect x="468" y="153" width="235" height="34" rx="17" fill="#2b3153"/>
+<text x="485" y="176" fill="#e8ebff" font-size="16" font-weight="400">3 marketplaces</text>
+<text x="1025" y="176" fill="#c7bfff" font-size="15" font-weight="700">OFFLINE PREVIEW</text>
+<rect x="40" y="213" width="420" height="574" rx="20" fill="#171d34" stroke="#3c4265"/>
+<text x="65" y="253" fill="#e8ebff" font-size="21" font-weight="700">01 / Вопросы в чате</text>
+<rect x="65" y="274" width="370" height="39" rx="12" fill="#333b65"/>
+<text x="80" y="300" fill="#e8ebff" font-size="17" font-weight="400">Android · до 40 000 ₽</text>
+<text x="65" y="350" fill="#b2a7ff" font-size="15" font-weight="700">Вопрос 3 из 8</text>
+<text x="65" y="386" fill="#f4f5ff" font-size="22" font-weight="400">Для чего смартфон в первую</text>
+<text x="65" y="415" fill="#f4f5ff" font-size="22" font-weight="400">очередь?</text>
+<rect x="65" y="446" width="370" height="42" rx="9" fill="#29314f"/>
+<text x="80" y="473" fill="#e8ebff" font-size="16" font-weight="400">Общение и повседневные дела</text>
+<rect x="65" y="498" width="370" height="42" rx="9" fill="#29314f"/>
+<text x="80" y="525" fill="#e8ebff" font-size="16" font-weight="400">Фото и видео</text>
+<rect x="65" y="550" width="370" height="42" rx="9" fill="#9b8afc"/>
+<text x="80" y="577" fill="#10142a" font-size="16" font-weight="700">Игры</text>
+<rect x="65" y="602" width="370" height="42" rx="9" fill="#29314f"/>
+<text x="80" y="629" fill="#e8ebff" font-size="16" font-weight="400">Работа и несколько приложений</text>
+<text x="65" y="688" fill="#b2a7ff" font-size="16" font-weight="400">← Назад</text>
+<text x="350" y="688" fill="#b2a7ff" font-size="16" font-weight="400">Отмена</text>
+<text x="65" y="733" fill="#bdc7e5" font-size="15" font-weight="400">Ответы сохраняются между</text>
+<text x="65" y="754" fill="#bdc7e5" font-size="15" font-weight="400">перезапусками.</text>
+<rect x="486" y="213" width="754" height="574" rx="20" fill="#171d34" stroke="#3c4265"/>
+<text x="512" y="253" fill="#e8ebff" font-size="21" font-weight="700">02 / Основной вариант</text>
+<text x="512" y="301" fill="#e8ebff" font-size="28" font-weight="700">POCO X7 Pro · 8/256 ГБ</text>
+<text x="512" y="342" fill="#b5f1d3" font-size="27" font-weight="700">≈ 32 000 ₽</text>
+<text x="512" y="372" fill="#e8ebff" font-size="16" font-weight="400">6.67″ · AMOLED 120 Гц · 6000 мА·ч</text>
+<text x="512" y="399" fill="#bdc7e5" font-size="16" font-weight="400">Dimensity 8400-Ultra · IP68</text>
+<text x="512" y="445" fill="#e8ebff" font-size="18" font-weight="700">Почему подходит</text>
+<text x="512" y="477" fill="#bdc7e5" font-size="16" font-weight="400">✓ Высокая производительность, аккумулятор 6000 мА·ч и зарядка 90 Вт</text>
+<text x="512" y="508" fill="#bdc7e5" font-size="16" font-weight="400">✓ Производительный чип: Dimensity 8400-Ultra</text>
+<text x="512" y="592" fill="#e8ebff" font-size="18" font-weight="700">Что учесть</text>
+<text x="512" y="621" fill="#bdc7e5" font-size="16" font-weight="400">Камеры уступают моделям с упором на съёмку</text>
+<rect x="512" y="679" width="208" height="42" rx="9" fill="#38325f" stroke="#7266ab"/>
+<text x="529" y="706" fill="#e2dbff" font-size="16" font-weight="700">Яндекс Маркет</text>
+<rect x="746" y="679" width="208" height="42" rx="9" fill="#38325f" stroke="#7266ab"/>
+<text x="763" y="706" fill="#e2dbff" font-size="16" font-weight="700">Ozon</text>
+<rect x="980" y="679" width="208" height="42" rx="9" fill="#38325f" stroke="#7266ab"/>
+<text x="997" y="706" fill="#e2dbff" font-size="16" font-weight="700">Wildberries</text>
+<text x="512" y="759" fill="#b7c1df" font-size="15" font-weight="400">Ориентировочные цены · Ссылки открывают поиск</text>
+<text x="40" y="826" fill="#c4c9e3" font-size="16" font-weight="400">Generated from the real catalog and ranking engine. An illustration, not a Telegram screenshot.</text>
+</g></svg>

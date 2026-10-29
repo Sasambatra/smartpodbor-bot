@@ -1,0 +1,16 @@
+include README.md LICENSE THIRD_PARTY_NOTICES.md
+include CONTRIBUTING.md CHANGELOG.md .env.example .gitignore .dockerignore .editorconfig
+include requirements.lock requirements-dev.lock
+include Makefile run.sh setup.sh Dockerfile compose.yaml
+recursive-include smartphone_bot/data *.json
+recursive-include third_party/aiogram *.py LICENSE
+recursive-include docs *.md *.svg *.txt *.png *.pdf *.docx
+recursive-include scripts *.py
+recursive-include tests *.py
+recursive-include .github *.yml *.md
+recursive-include .vscode *.json
+prune .local
+prune .venv
+prune data
+prune output
+global-exclude .env *.sqlite3 *.sqlite3-wal *.sqlite3-shm *.pyc

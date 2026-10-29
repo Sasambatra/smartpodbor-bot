@@ -1,0 +1,22 @@
+name: Bug report
+description: Report a reproducible problem with the survey or recommendations.
+title: "Bug: "
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include survey choices and the command you ran. Omit tokens and personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Ubuntu 26.04, Python 3.14, offline demo or Telegram"

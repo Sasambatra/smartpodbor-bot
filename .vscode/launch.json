@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "SmartPodbor: offline demo",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "smartphone_bot",
+      "args": ["--demo", "--example"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "SmartPodbor: Telegram bot",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "smartphone_bot",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

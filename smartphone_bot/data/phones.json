@@ -1,0 +1,689 @@
+{
+  "specs_checked_on": "2026-10-25",
+  "price_note": "Суммы заданы вручную для предварительного отбора и не являются проверенными ценами магазинов. Наличие и доставка не проверяются.",
+  "rating_note": "Редакционные сравнительные оценки 1–10; не бенчмарки. Каталог ограничен перечисленными моделями и конфигурациями.",
+  "phones": [
+    {
+      "id": "redmi14c-128",
+      "name": "Xiaomi Redmi 14C",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 4,
+      "storage_gb": 128,
+      "price_rub": 10000,
+      "screen_inches": 6.88,
+      "display": "IPS 120 Гц",
+      "chipset": "Helio G81-Ultra",
+      "battery_mah": 5160,
+      "charging_w": 18,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "нет",
+      "camera": 4,
+      "performance": 3,
+      "endurance": 7,
+      "screen": 4,
+      "software": 5,
+      "strengths": [
+        "Большой экран и низкая ориентировочная цена"
+      ],
+      "caveats": [
+        "Экран HD+; 4 ГБ оперативной памяти — для базовых задач",
+        "Выбирайте версию с NFC; тяжёлые игры не её сильная сторона"
+      ],
+      "source_url": "https://www.mi.com/pk/support/faq/details/KA-426105/",
+      "search_query": "Xiaomi Redmi 14C 4/128 ГБ Global NFC"
+    },
+    {
+      "id": "a16-128",
+      "name": "Samsung Galaxy A16 4G",
+      "brand": "samsung",
+      "os": "android",
+      "ram_gb": 4,
+      "storage_gb": 128,
+      "price_rub": 14000,
+      "screen_inches": 6.7,
+      "display": "Super AMOLED 90 Гц",
+      "chipset": "Helio G99",
+      "battery_mah": 5000,
+      "charging_w": 25,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP54",
+      "camera": 5,
+      "performance": 4,
+      "endurance": 7,
+      "screen": 6,
+      "software": 8,
+      "strengths": [
+        "AMOLED-экран и длительная поддержка Samsung"
+      ],
+      "caveats": [
+        "4 ГБ оперативной памяти; нет 5G и оптической стабилизации камеры",
+        "NFC зависит от региональной версии"
+      ],
+      "source_url": "https://news.samsung.com/br/samsung-apresenta-galaxy-a16-e-a16-5g-no-brasil-com-ate-seis-atualizacoes-de-sistema-android-e-seguranca",
+      "search_query": "Samsung Galaxy A16 4G 4/128 ГБ Global NFC"
+    },
+    {
+      "id": "note14-256",
+      "name": "Xiaomi Redmi Note 14 4G",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 18000,
+      "screen_inches": 6.67,
+      "display": "AMOLED 120 Гц",
+      "chipset": "Helio G99-Ultra",
+      "battery_mah": 5500,
+      "charging_w": 33,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP54",
+      "camera": 6,
+      "performance": 5,
+      "endurance": 8,
+      "screen": 7,
+      "software": 6,
+      "strengths": [
+        "AMOLED 120 Гц, 256 ГБ памяти и аккумулятор 5500 мА·ч"
+      ],
+      "caveats": [
+        "Нет 5G и оптической стабилизации; не путайте с Note 14 5G",
+        "NFC зависит от региона"
+      ],
+      "source_url": "https://www.mi.com/global/product/redmi-note-14/specs/",
+      "search_query": "Xiaomi Redmi Note 14 4G 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "a36-256",
+      "name": "Samsung Galaxy A36 5G",
+      "brand": "samsung",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 26000,
+      "screen_inches": 6.7,
+      "display": "Super AMOLED 120 Гц",
+      "chipset": "Snapdragon 6 Gen 3",
+      "battery_mah": 5000,
+      "charging_w": 45,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP67",
+      "camera": 7,
+      "performance": 6,
+      "endurance": 7,
+      "screen": 8,
+      "software": 9,
+      "strengths": [
+        "Защита IP67, AMOLED и длительная поддержка системы"
+      ],
+      "caveats": [
+        "Средняя игровая производительность",
+        "eSIM зависит от региона: проверьте номер модели у продавца"
+      ],
+      "source_url": "https://news.samsung.com/global/samsung-marks-a-step-forward-with-ai-for-everyone-by-introducing-new-galaxy-a56-5g-galaxy-a36-5g-and-galaxy-a26-5g",
+      "search_query": "Samsung Galaxy A36 5G 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "note14pro-256",
+      "name": "Xiaomi Redmi Note 14 Pro 5G",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 28000,
+      "screen_inches": 6.67,
+      "display": "AMOLED 120 Гц",
+      "chipset": "Dimensity 7300-Ultra",
+      "battery_mah": 5110,
+      "charging_w": 45,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP68",
+      "camera": 8,
+      "performance": 7,
+      "endurance": 7,
+      "screen": 8,
+      "software": 7,
+      "strengths": [
+        "Камера с оптической стабилизацией и защита IP68"
+      ],
+      "caveats": [
+        "Изогнутый экран подходит не всем; второстепенные камеры проще основной",
+        "Не путайте с версией 4G: процессор и аккумулятор отличаются"
+      ],
+      "source_url": "https://www.mi.com/my/product/redmi-note-14-pro-5g/specs/",
+      "search_query": "Xiaomi Redmi Note 14 Pro 5G 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "pocox7pro-256",
+      "name": "POCO X7 Pro",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 32000,
+      "screen_inches": 6.67,
+      "display": "AMOLED 120 Гц",
+      "chipset": "Dimensity 8400-Ultra",
+      "battery_mah": 6000,
+      "charging_w": 90,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP68",
+      "camera": 7,
+      "performance": 9,
+      "endurance": 9,
+      "screen": 9,
+      "software": 7,
+      "strengths": [
+        "Высокая производительность, аккумулятор 6000 мА·ч и зарядка 90 Вт"
+      ],
+      "caveats": [
+        "Камеры уступают моделям с упором на съёмку",
+        "В системе могут быть предустановленные приложения и рекомендации"
+      ],
+      "source_url": "https://www.mi.com/global/product/poco-x7-pro/specs/",
+      "search_query": "POCO X7 Pro 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "pocox7pro-512",
+      "name": "POCO X7 Pro",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "price_rub": 38000,
+      "screen_inches": 6.67,
+      "display": "AMOLED 120 Гц",
+      "chipset": "Dimensity 8400-Ultra",
+      "battery_mah": 6000,
+      "charging_w": 90,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP68",
+      "camera": 7,
+      "performance": 9,
+      "endurance": 9,
+      "screen": 9,
+      "software": 7,
+      "strengths": [
+        "512 ГБ памяти, высокая производительность и зарядка 90 Вт"
+      ],
+      "caveats": [
+        "Камеры уступают моделям с упором на съёмку",
+        "Проверьте комплектацию и региональную версию"
+      ],
+      "source_url": "https://www.mi.com/global/product/poco-x7-pro/specs/",
+      "search_query": "POCO X7 Pro 12/512 ГБ Global NFC"
+    },
+    {
+      "id": "honorx9c-256",
+      "name": "HONOR X9c",
+      "brand": "honor",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 29000,
+      "screen_inches": 6.78,
+      "display": "AMOLED 120 Гц",
+      "chipset": "Snapdragon 6 Gen 1",
+      "battery_mah": 6600,
+      "charging_w": 66,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP65M",
+      "camera": 7,
+      "performance": 6,
+      "endurance": 10,
+      "screen": 8,
+      "software": 7,
+      "strengths": [
+        "Аккумулятор 6600 мА·ч и большой AMOLED-экран"
+      ],
+      "caveats": [
+        "Изогнутый экран; производительность ниже игровых моделей",
+        "IP65M не равнозначна IP67/IP68: не рассчитан на погружение"
+      ],
+      "source_url": "https://www.honor.com/levant/phones/honor-x9c/spec/",
+      "search_query": "HONOR X9c 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "a56-256",
+      "name": "Samsung Galaxy A56 5G",
+      "brand": "samsung",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 34000,
+      "screen_inches": 6.7,
+      "display": "Super AMOLED 120 Гц",
+      "chipset": "Exynos 1580",
+      "battery_mah": 5000,
+      "charging_w": 45,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP67",
+      "camera": 8,
+      "performance": 7,
+      "endurance": 8,
+      "screen": 8,
+      "software": 9,
+      "strengths": [
+        "Сбалансированная камера, защита IP67 и длительная поддержка"
+      ],
+      "caveats": [
+        "Крупный корпус; отдельной камеры с оптическим зумом нет",
+        "eSIM и комплект поставки зависят от региона"
+      ],
+      "source_url": "https://news.samsung.com/global/samsung-marks-a-step-forward-with-ai-for-everyone-by-introducing-new-galaxy-a56-5g-galaxy-a36-5g-and-galaxy-a26-5g",
+      "search_query": "Samsung Galaxy A56 5G 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "honor400-256",
+      "name": "HONOR 400",
+      "brand": "honor",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 39000,
+      "screen_inches": 6.55,
+      "display": "AMOLED 120 Гц",
+      "chipset": "Snapdragon 7 Gen 3",
+      "battery_mah": 6000,
+      "charging_w": 80,
+      "nfc": true,
+      "esim": false,
+      "ip_rating": "IP66",
+      "camera": 8,
+      "performance": 7,
+      "endurance": 9,
+      "screen": 9,
+      "software": 8,
+      "strengths": [
+        "Основная камера с оптической стабилизацией и аккумулятор 6000 мА·ч"
+      ],
+      "caveats": [
+        "Нет отдельного телеобъектива; IP66 не рассчитана на погружение",
+        "У европейской версии аккумулятор отличается: проверяйте характеристики"
+      ],
+      "source_url": "https://www.honor.com/global/phones/honor-400/",
+      "search_query": "HONOR 400 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "pixel9a-128",
+      "name": "Google Pixel 9a",
+      "brand": "google",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "price_rub": 42000,
+      "screen_inches": 6.3,
+      "display": "OLED 120 Гц",
+      "chipset": "Google Tensor G4",
+      "battery_mah": 5100,
+      "charging_w": 23,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 7,
+      "endurance": 8,
+      "screen": 8,
+      "software": 10,
+      "strengths": [
+        "Камера с вычислительной фотографией и длительная поддержка Google"
+      ],
+      "caveats": [
+        "Зарядка медленнее многих конкурентов; нет телеобъектива",
+        "Часть функций Google зависит от страны; уточняйте гарантию импортёра"
+      ],
+      "source_url": "https://support.google.com/pixelphone/answer/7158570?hl=en-AU",
+      "search_query": "Google Pixel 9a 8/128 ГБ Global NFC"
+    },
+    {
+      "id": "pixel9a-256",
+      "name": "Google Pixel 9a",
+      "brand": "google",
+      "os": "android",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "price_rub": 48000,
+      "screen_inches": 6.3,
+      "display": "OLED 120 Гц",
+      "chipset": "Google Tensor G4",
+      "battery_mah": 5100,
+      "charging_w": 23,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 7,
+      "endurance": 8,
+      "screen": 8,
+      "software": 10,
+      "strengths": [
+        "Компактный экран 6,3″, камера Pixel и 256 ГБ памяти"
+      ],
+      "caveats": [
+        "Зарядка медленнее многих конкурентов; нет телеобъектива",
+        "Часть функций Google зависит от страны; уточняйте гарантию импортёра"
+      ],
+      "source_url": "https://support.google.com/pixelphone/answer/7158570?hl=en-AU",
+      "search_query": "Google Pixel 9a 8/256 ГБ Global NFC"
+    },
+    {
+      "id": "xiaomi15-256",
+      "name": "Xiaomi 15",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "price_rub": 65000,
+      "screen_inches": 6.36,
+      "display": "AMOLED LTPO 120 Гц",
+      "chipset": "Snapdragon 8 Elite",
+      "battery_mah": 5240,
+      "charging_w": 90,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 10,
+      "endurance": 9,
+      "screen": 10,
+      "software": 8,
+      "strengths": [
+        "Компактный флагман с телеобъективом и мощным процессором"
+      ],
+      "caveats": [
+        "Камеры заметно выступают из корпуса",
+        "Выбирайте Global: китайская версия отличается связью и ПО"
+      ],
+      "source_url": "https://www.mi.co.id/id/product/xiaomi-15/specs/",
+      "search_query": "Xiaomi 15 12/256 ГБ Global NFC"
+    },
+    {
+      "id": "xiaomi15-512",
+      "name": "Xiaomi 15",
+      "brand": "xiaomi",
+      "os": "android",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "price_rub": 73000,
+      "screen_inches": 6.36,
+      "display": "AMOLED LTPO 120 Гц",
+      "chipset": "Snapdragon 8 Elite",
+      "battery_mah": 5240,
+      "charging_w": 90,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 10,
+      "endurance": 9,
+      "screen": 10,
+      "software": 8,
+      "strengths": [
+        "Компактный флагман с 512 ГБ памяти и зарядкой 90 Вт"
+      ],
+      "caveats": [
+        "Камеры заметно выступают из корпуса",
+        "Выбирайте Global: китайская версия отличается связью и ПО"
+      ],
+      "source_url": "https://www.mi.co.id/id/product/xiaomi-15/specs/",
+      "search_query": "Xiaomi 15 12/512 ГБ Global NFC"
+    },
+    {
+      "id": "s25-256",
+      "name": "Samsung Galaxy S25",
+      "brand": "samsung",
+      "os": "android",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "price_rub": 66000,
+      "screen_inches": 6.2,
+      "display": "AMOLED LTPO 120 Гц",
+      "chipset": "Snapdragon 8 Elite for Galaxy",
+      "battery_mah": 4000,
+      "charging_w": 25,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 10,
+      "endurance": 7,
+      "screen": 9,
+      "software": 10,
+      "strengths": [
+        "Лёгкий компактный флагман с оптическим зумом и длительной поддержкой"
+      ],
+      "caveats": [
+        "Зарядка 25 Вт и аккумулятор 4000 мА·ч уступают конкурентам",
+        "Проверьте региональную версию и поддержку eSIM"
+      ],
+      "source_url": "https://news.samsung.com/sg/samsung-galaxy-s25-series-sets-the-standard-of-ai-phone-as-a-true-ai-companion",
+      "search_query": "Samsung Galaxy S25 12/256 ГБ Global NFC"
+    },
+    {
+      "id": "s25ultra-256",
+      "name": "Samsung Galaxy S25 Ultra",
+      "brand": "samsung",
+      "os": "android",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "price_rub": 100000,
+      "screen_inches": 6.9,
+      "display": "AMOLED LTPO 120 Гц",
+      "chipset": "Snapdragon 8 Elite for Galaxy",
+      "battery_mah": 5000,
+      "charging_w": 45,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 10,
+      "performance": 10,
+      "endurance": 8,
+      "screen": 10,
+      "software": 10,
+      "strengths": [
+        "Универсальные камеры с оптическим зумом и встроенный S Pen"
+      ],
+      "caveats": [
+        "Большой и тяжёлый корпус; зарядка медленнее ряда конкурентов",
+        "Проверьте гарантию и региональную версию"
+      ],
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/us/business/mobile/phones/galaxy-s25/02052025/S25_Series_B2B_Spec_Sheet_HRc.pdf",
+      "search_query": "Samsung Galaxy S25 Ultra 12/256 ГБ Global NFC"
+    },
+    {
+      "id": "s25ultra-512",
+      "name": "Samsung Galaxy S25 Ultra",
+      "brand": "samsung",
+      "os": "android",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "price_rub": 112000,
+      "screen_inches": 6.9,
+      "display": "AMOLED LTPO 120 Гц",
+      "chipset": "Snapdragon 8 Elite for Galaxy",
+      "battery_mah": 5000,
+      "charging_w": 45,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 10,
+      "performance": 10,
+      "endurance": 8,
+      "screen": 10,
+      "software": 10,
+      "strengths": [
+        "Камеры с оптическим зумом, S Pen и 512 ГБ памяти"
+      ],
+      "caveats": [
+        "Большой и тяжёлый корпус; высокая цена",
+        "Проверьте гарантию и региональную версию"
+      ],
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/us/business/mobile/phones/galaxy-s25/02052025/S25_Series_B2B_Spec_Sheet_HRc.pdf",
+      "search_query": "Samsung Galaxy S25 Ultra 12/512 ГБ Global NFC"
+    },
+    {
+      "id": "iphone16-128",
+      "name": "Apple iPhone 16",
+      "brand": "apple",
+      "os": "ios",
+      "ram_gb": null,
+      "storage_gb": 128,
+      "price_rub": 62000,
+      "screen_inches": 6.1,
+      "display": "OLED 60 Гц",
+      "chipset": "Apple A18",
+      "battery_mah": null,
+      "charging_w": null,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 9,
+      "endurance": 7,
+      "screen": 7,
+      "software": 10,
+      "strengths": [
+        "Компактный корпус, качественное видео и экосистема Apple"
+      ],
+      "caveats": [
+        "Экран 60 Гц; нет отдельного телеобъектива",
+        "Версии США — только eSIM; уточните SIM и гарантию у продавца"
+      ],
+      "source_url": "https://support.apple.com/es-es/121029",
+      "search_query": "Apple iPhone 16 128 ГБ Global"
+    },
+    {
+      "id": "iphone16-256",
+      "name": "Apple iPhone 16",
+      "brand": "apple",
+      "os": "ios",
+      "ram_gb": null,
+      "storage_gb": 256,
+      "price_rub": 72000,
+      "screen_inches": 6.1,
+      "display": "OLED 60 Гц",
+      "chipset": "Apple A18",
+      "battery_mah": null,
+      "charging_w": null,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 9,
+      "endurance": 7,
+      "screen": 7,
+      "software": 10,
+      "strengths": [
+        "Качественное видео, компактный корпус и 256 ГБ памяти"
+      ],
+      "caveats": [
+        "Экран 60 Гц; нет отдельного телеобъектива",
+        "Версии США — только eSIM; уточните SIM и гарантию у продавца"
+      ],
+      "source_url": "https://support.apple.com/es-es/121029",
+      "search_query": "Apple iPhone 16 256 ГБ Global"
+    },
+    {
+      "id": "iphone17-256",
+      "name": "Apple iPhone 17",
+      "brand": "apple",
+      "os": "ios",
+      "ram_gb": null,
+      "storage_gb": 256,
+      "price_rub": 88000,
+      "screen_inches": 6.3,
+      "display": "OLED ProMotion до 120 Гц",
+      "chipset": "Apple A19",
+      "battery_mah": null,
+      "charging_w": null,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 9,
+      "performance": 10,
+      "endurance": 8,
+      "screen": 10,
+      "software": 10,
+      "strengths": [
+        "Экран ProMotion, 256 ГБ в базовой версии и экосистема Apple"
+      ],
+      "caveats": [
+        "Нет отдельного телеобъектива",
+        "Региональная версия определяет поддержку физических SIM и eSIM"
+      ],
+      "source_url": "https://www.apple.com/iphone-17/specs/",
+      "search_query": "Apple iPhone 17 256 ГБ Global"
+    },
+    {
+      "id": "iphone17pro-256",
+      "name": "Apple iPhone 17 Pro",
+      "brand": "apple",
+      "os": "ios",
+      "ram_gb": null,
+      "storage_gb": 256,
+      "price_rub": 125000,
+      "screen_inches": 6.3,
+      "display": "OLED ProMotion до 120 Гц",
+      "chipset": "Apple A19 Pro",
+      "battery_mah": null,
+      "charging_w": null,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 10,
+      "performance": 10,
+      "endurance": 8,
+      "screen": 10,
+      "software": 10,
+      "strengths": [
+        "Продвинутые камеры, оптический зум и возможности видеосъёмки"
+      ],
+      "caveats": [
+        "Высокая цена и заметный блок камер",
+        "Региональная версия определяет поддержку физических SIM и eSIM"
+      ],
+      "source_url": "https://support.apple.com/en-us/125090",
+      "search_query": "Apple iPhone 17 Pro 256 ГБ Global"
+    },
+    {
+      "id": "iphone17pro-512",
+      "name": "Apple iPhone 17 Pro",
+      "brand": "apple",
+      "os": "ios",
+      "ram_gb": null,
+      "storage_gb": 512,
+      "price_rub": 148000,
+      "screen_inches": 6.3,
+      "display": "OLED ProMotion до 120 Гц",
+      "chipset": "Apple A19 Pro",
+      "battery_mah": null,
+      "charging_w": null,
+      "nfc": true,
+      "esim": true,
+      "ip_rating": "IP68",
+      "camera": 10,
+      "performance": 10,
+      "endurance": 8,
+      "screen": 10,
+      "software": 10,
+      "strengths": [
+        "Продвинутые камеры, видеосъёмка и 512 ГБ памяти"
+      ],
+      "caveats": [
+        "Высокая цена и заметный блок камер",
+        "Региональная версия определяет поддержку физических SIM и eSIM"
+      ],
+      "source_url": "https://support.apple.com/en-us/125090",
+      "search_query": "Apple iPhone 17 Pro 512 ГБ Global"
+    }
+  ]
+}
